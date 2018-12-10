@@ -1,0 +1,3 @@
+FROM minio/mc@sha256:25777ea0e8282704b2c79c98e8dde57cef1f681d4c0cc326a435b9f5d34547ee
+
+
